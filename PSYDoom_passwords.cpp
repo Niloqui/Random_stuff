@@ -1,3 +1,11 @@
+/* https://github.com/BodbDearg/PsyDoom/blob/master/game/Doom/Game/p_password.cpp
+ * Version 0.8.3
+ * ceil8Div and P_ComputePassword were copied from the PSYDoom repository.
+ * ceil8Div was not modified.
+ * Few lines have been changed in P_ComputePassword to simplify the pistol-start password 
+ * generation for each level.
+*/
+
 #include <iostream>
 
 //------------------------------------------------------------------------------------------------------------------------------------------
