@@ -128,7 +128,7 @@ int main() {
     char letters[33] = "BCDFGHJKLMNPQRSTVWXYZ0123456789!";
     uint8_t password[10];
 
-    for (int i = 0; i < 64; i++) {
+    for (int i = 0; i < 60; i++) {
 
         if (i == 0) // First row
             std::cout << "Levels\t";
