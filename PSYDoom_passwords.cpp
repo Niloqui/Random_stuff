@@ -153,7 +153,7 @@ int main() {
             }
         }
 
-        printf("\n");
+        std::cout << "\n";
     }
 
 
